@@ -178,7 +178,7 @@ table.blueTable tfoot .links a {
 li p {
   display: inline-block;
   padding: 0 1px;
-  font-size: 12px;
+  font-size: 10px;
 }
 
 .container-starts {
@@ -331,10 +331,10 @@ li p {
     grid-gap: 10px;
   }
   h1 {
-    font-size: 35px;
+    font-size: 10px;
   }
   h2 {
-    font-size: 22px;
+    font-size: 20px;
   }
   .container-body .item:nth-of-type(1) 
   {
